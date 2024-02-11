@@ -1,7 +1,7 @@
 {
 "swagger": "2.0",
 "info": {
-"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.cookie)](javascript:alert(document.cookie)) or on [irc.freenode.net, #swagger](javascript:alert(document.domain)).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.cookie)](javascript:alert(document.cookie)) or on [irc.freenode.net, #swagger](javascript:alert(document.cookie)).  For this sample, you can use the api key `special-key` to test the authorization filters.",
 "version": "1.0.6",
 "title": "Swagger Petstore",
 "termsOfService": "javascript:alert(document.cookie)",
@@ -9,7 +9,7 @@
 "email": "apiteam@swagger.io"
 },
 "license": {
-"name": "Apache 2.0",
+"name": "<script>alert(document.cookie)</script>",
 "url": "javascript:alert(document.cookie)"
 }
 },
@@ -1049,6 +1049,6 @@
 },
 "externalDocs": {
 "description": "Find out more about Swagger",
-"url": "javascript:alert(document.domain)"
+"url": "javascript:alert(document.cookie)"
 }
 }
