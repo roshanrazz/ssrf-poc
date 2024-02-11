@@ -7,5 +7,4 @@ info:
     name: "API Support",
     url: "javascript:alert(document.cookie)",
     email: "javascript:alert(document.cookie)"
-    consumes: ["application/json","application/xml","\"><script>alert(1)</script>"]
   version: "1.0.1"
