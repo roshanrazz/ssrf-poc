@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src=x onerror="alert('all your base are belong to us')">
+  description: <img src=x onerror="alert(document.cookie)">
 paths:
   /:
     get:
