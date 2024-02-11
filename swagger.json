@@ -439,11 +439,14 @@
 "description": "",
 "operationId": "placeOrder",
 "consumes": [
-"application/json"
+"application/json",
+"application/xml",
+"\"><script>alert(1)</script>"
 ],
 "produces": [
 "application/json",
-"application/xml"
+"application/xml",
+"\"><script>alert(1)</script>"
 ],
 "parameters": [
 {
